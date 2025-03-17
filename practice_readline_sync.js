@@ -15,4 +15,4 @@ let conversion = ask.question("Does the above equation use conversion? ")
 
 console.log("The data type you chose is " + dataType + ". The operator you chose is " + operator + 
     ". You said the given output for the code provided is " + bool + ". You said the output should be " 
-    + output + ". You anserred " + conversion + " to the conversion question.");
+    + output + ". You answered " + conversion + " to the conversion question.");
